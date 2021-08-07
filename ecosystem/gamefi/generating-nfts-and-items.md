@@ -29,7 +29,7 @@ Level ахих тоолонд шагнал өгөх боловч Special **NFT**
 
 #### Special Items
 
-Special Items нь дангаараа Mine хийх боломгүй боловч NFT -тэй хосолсоноор Mining Hush Rate өсгөх давуу талыг нээдэг ба Items -ыг Level ахин олж авах эсвэл шууд авах эрхтэй.
+Special Items нь дангаараа Mine хийх боломжгүй боловч NFT -тэй хосолсоноор Mining Hush Rate өсгөх давуу талыг нээдэг ба Items -ыг Level ахин олж авах эсвэл шууд авах эрхтэй.
 
 ![](../../.gitbook/assets/add.png)
 

@@ -46,5 +46,5 @@
 
 ---
 
-* [Untitled](untitled.md)
+* [Хэрэгтэй байж болох](untitled.md)
 

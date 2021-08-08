@@ -2,7 +2,7 @@
 
 ## How to get Special NFT ?
 
-Special **NFT** - ыг хэрэглэгч 4 аргаар олох боломжтой. 
+**Special** **NFT** - ыг хэрэглэгч 4 аргаар олох боломжтой. 
 
 1. Exp цуглуулан level ахих
 2. Mystery Box онгойлгох

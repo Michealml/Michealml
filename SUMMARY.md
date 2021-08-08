@@ -44,3 +44,7 @@
 * [Anti whale](token-math/anti-whale.md)
 * [Bayback Burn](token-math/bayback-burn.md)
 
+---
+
+* [Untitled](untitled.md)
+

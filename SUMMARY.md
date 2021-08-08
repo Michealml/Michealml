@@ -25,6 +25,7 @@
 * [Game](ecosystem/game/README.md)
   * [Wild pass](ecosystem/game/wild-pass.md)
   * [Exchange](ecosystem/game/exchange.md)
+  * [Mystery Box](ecosystem/game/mystery-box.md)
   * [Mining pools](ecosystem/game/mining-pools.md)
   * [Auction](ecosystem/game/auction.md)
   * [NFT Heroes](ecosystem/game/nft-heroes.md)

@@ -17,7 +17,6 @@
   * [Mining pools](ecosystem/gamefi/mining-pools.md)
 * [NFT ecosystem](ecosystem/nft-ecosystem/README.md)
   * [Ability to work together](ecosystem/nft-ecosystem/ability-to-work-together.md)
-  * [NFT Creator](ecosystem/nft-ecosystem/nft-creator.md)
   * [NFT Marketplace](ecosystem/nft-ecosystem/nft-marketplace.md)
 * [Asset Portfolio](ecosystem/asset-portfolio.md)
 * [Level and exp system](ecosystem/level-and-exp-system/README.md)

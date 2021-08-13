@@ -14,6 +14,7 @@
 * [Gamefi](ecosystem/gamefi/README.md)
   * [Generating NFTs and Items](ecosystem/gamefi/generating-nfts-and-items.md)
   * [NFT and Items chain properties](ecosystem/gamefi/nft-and-items-chain-properties.md)
+  * [Governance](ecosystem/gamefi/governance.md)
   * [Mining pools](ecosystem/gamefi/mining-pools.md)
 * [NFT ecosystem](ecosystem/nft-ecosystem/README.md)
   * [Ability to work together](ecosystem/nft-ecosystem/ability-to-work-together.md)

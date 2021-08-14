@@ -14,7 +14,6 @@
 * [Gamefi](ecosystem/gamefi/README.md)
   * [Generating NFTs and Items](ecosystem/gamefi/generating-nfts-and-items.md)
   * [NFT and Items chain properties](ecosystem/gamefi/nft-and-items-chain-properties.md)
-  * [Governance](ecosystem/gamefi/governance.md)
   * [Mining pools](ecosystem/gamefi/mining-pools.md)
 * [NFT ecosystem](ecosystem/nft-ecosystem/README.md)
   * [Ability to work together](ecosystem/nft-ecosystem/ability-to-work-together.md)
@@ -24,13 +23,12 @@
   * [Level](ecosystem/level-and-exp-system/level.md)
   * [Exp](ecosystem/level-and-exp-system/exp.md)
 * [Game](ecosystem/game/README.md)
-  * [Wild pass](ecosystem/game/wild-pass.md)
   * [Exchange](ecosystem/game/exchange.md)
   * [Mystery Box](ecosystem/game/mystery-box.md)
-  * [Mining pools](ecosystem/game/mining-pools.md)
+  * [Buttle field](ecosystem/game/mining-pools.md)
   * [Auction](ecosystem/game/auction.md)
   * [NFT Heroes](ecosystem/game/nft-heroes.md)
-  * [Items](ecosystem/game/items.md)
+  * [Leaderboard](ecosystem/game/wild-pass.md)
 
 ## Community
 

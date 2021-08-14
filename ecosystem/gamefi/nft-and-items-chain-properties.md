@@ -1,19 +1,47 @@
 # NFT and Items chain properties
 
-NFT болон Items тус бүрийн хадгалагдсан шинж чанарууд Блокчэйн дээр үүссэн байгаа.
+## The difference between NFT and Items
 
-### Chain Parameters
+### NFT 
+
+**Special NFT** нь өөрийн төрөлөөсөө хамаарч өөр өөр **Mining Hash Rate** - тэй байна. Хэрэглэгч өөрт байгаа **NFT** - г ашиглан Mine хийх боломжтой.
+
+| Type | Starting Hush Rate |
+| :--- | :--- |
+| Common | 1 |
+| Uncommon | 2 |
+| Unique | 3 |
+| Rare | 10-40 |
+| Epic | 50-120 |
+| Legendary | 180-260 |
+
+### Items
+
+**Special Items** нь дангаараа **Mine** хийх боломжгүй боловч **NFT** -тэй хосолсоноор **Mining Hush Rate** өсгөх давуу талтай.
+
+| Type | Starting Hush Rate |
+| :--- | :--- |
+| Common | 1 |
+| Uncommon | 2 |
+| Unique | 3 |
+| Rare | 10-20 |
+| Epic | 50-120 |
+| Legendary | 180-260 |
+
+## Chain Parameters
+
+**NFT** болон **Items** тус бүрийн хадгалагдсан шинж чанарууд Блокчэйн дээр үүссэн байгаа.
 
 1.  NFT бүр дараах параметрүүдтэй байна.
 
-| Type | Color | Asset Class | Minted | Rate | Starting Hash Rate | Extras |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Common | Grey | BRC1155 | Box, Level | 50.00% | 1 | None |
-| Uncommon | Green | BRC1155 | Box, Level | 35.00% | 2 | None |
-| Unique | Blue | BRC1155 | Box, Level | 12.00% | 3 | None |
-| Rare | Purple | BRC721 | Box, Auctions | 2.50% | 10~40 | Edit Name |
-| Epic | Orange | BRC721 | Box, Auctions | 0.50% | 50~120 | Edit Name, Message |
-| Legendary | Red | BRC721 | Events, Auctions | N/A | 180~260 | Edit Name, Message |
+| Type | Color | Asset Class | Minted | Rate | Extras |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Common | Grey | BRC1155 | Box, Level | 50.00% | None |
+| Uncommon | Green | BRC1155 | Box, Level | 35.00% | None |
+| Unique | Blue | BRC1155 | Box, Level | 12.00% | None |
+| Rare | Purple | BRC721 | Box, Auctions | 2.50% | Edit Name |
+| Epic | Orange | BRC721 | Box, Auctions | 0.50% | Edit Name, Message |
+| Legendary | Red | BRC721 | Events, Auctions | N/A | Edit Name, Message |
 
    20 жилийн турш жил бүр тусгагдсан ширхэгийн дагуу Мint хийх болно.
 
@@ -28,20 +56,25 @@ NFT болон Items тус бүрийн хадгалагдсан шинж ча�
 
 1 жилд гарах төрөлийн давхардаагүй тоо
 
-| Type | Per NFT amount |  |
-| :--- | :--- | :--- |
-|  |  |  |
+| Type | Per NFT amount |
+| :--- | :--- |
+| Common | 20 |
+| Uncommon | 15 |
+| Unique | 10 |
+| Rare | 12 |
+| Epic | 30 |
+| Legendary | 5 |
 
     2.  Items бүр дараах параметрүүдтэй байна.
 
-| Type | Color | Asset Class | Minted | Rate | Starting Hash Rate | Extras |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Common | Grey | BRC1155 | Box, Level | 50.00% | 1 | None |
-| Uncommon | Green | BRC1155 | Box, Level | 35.00% | 2 | None |
-| Unique | Blue | BRC1155 | Box, Level | 12.00% | 3 | None |
-| Rare | Purple | BRC721 | Box, Auctions | 2.50% | 10~40 | Edit Name |
-| Epic | Orange | BRC721 | Box, Auctions | 0.50% | 50~120 | Edit Name, Message |
-| Legendary | Red | BRC721 | Events, Auctions | N/A | 180~260 | Edit Name, Message |
+| Type | Color | Asset Class | Minted | Rate | Extras |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Common | Grey | BRC1155 | Box, Level | 50.00% | None |
+| Uncommon | Green | BRC1155 | Box, Level | 35.00% | None |
+| Unique | Blue | BRC1155 | Box, Level | 12.00% | None |
+| Rare | Purple | BRC721 | Box, Auctions | 2.50% | Edit Name |
+| Epic | Orange | BRC721 | Box, Auctions | 0.50% | Edit Name, Message |
+| Legendary | Red | BRC721 | Events, Auctions | N/A | Edit Name, Message |
 
    20 жилийн турш жил бүр тусгагдсан ширхэгийн дагуу Мint хийх болно.
 
@@ -58,5 +91,10 @@ NFT болон Items тус бүрийн хадгалагдсан шинж ча�
 
 | Type | Per NFT amount |
 | :--- | :--- |
-
+| Common | 40 |
+| Uncommon | 30 |
+| Unique | 20 |
+| Rare | 30 |
+| Epic | 10 |
+| Legendary | 10 |
 

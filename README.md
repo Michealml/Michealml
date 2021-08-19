@@ -62,3 +62,5 @@ Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон 
 
 ![](.gitbook/assets/tokenomick.pnge.png)
 
+
+

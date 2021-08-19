@@ -32,13 +32,14 @@
 
 ## Community
 
+* [Governance](community/governance.md)
 * [Participation awards](community/participation-awards.md)
 * [NFT Heroes community](community/nft-heroes-community.md)
 * [More fan with friends](community/more-fan-with-friends.md)
 
 ## Token math
 
-* [HRO Tokenomics](token-math/hro-tokenomics.md)
+* [Helix Tokenomics](token-math/hro-tokenomics.md)
 * [NFT and Items math](token-math/nft-and-items-math.md)
 * [Scenarios](token-math/scenarios.md)
 * [Anti whale](token-math/anti-whale.md)

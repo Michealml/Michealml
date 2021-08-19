@@ -1,2 +1,2 @@
-# HRO Tokenomics
+# Helix Tokenomics
 

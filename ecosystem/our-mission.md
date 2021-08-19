@@ -11,4 +11,7 @@
 * [Asset Portfolio](asset-portfolio.md)
 * [Level and exp system](level-and-exp-system/)
 * [Game](game/)
+* [Covernance](../community/governance.md)
+
+## 
 

@@ -41,7 +41,13 @@ Team Helix is all about transparency in everything we do.  Above is a list of ou
 
 Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон ERC20 сүлжээны токэн юм.  Эхны жил 250,000,000 сая токэн минт хийгдэх ба дараагийн жилээс 4 дахин бага mint хийгдэх болно.
 
+Бил тооцоо судалгаан дээр үндэслэн токэний тоо ширхэгийг тооцоолж Шаталт өндөр болгохоор хийсэн. Энэ нь Hold хийхэд хамгийн хамгийн тохиромжтойг илтгэж өгнө.
+
 ### Halving Mint Amount
+
+![](.gitbook/assets/helix-token-statistics.png)
+
+
 
 | Year | Amount |
 | :--- | :--- |
@@ -67,4 +73,6 @@ Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон 
 ### Scenarios
 
 ![](.gitbook/assets/bauyback-burn.png)
+
+![](.gitbook/assets/how-to-burn.png)
 

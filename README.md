@@ -72,7 +72,9 @@ Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон 
 
 ### Scenarios of Burn
 
-![](.gitbook/assets/bauyback-burn.png)
+![Token Burn](.gitbook/assets/bauyback-burn.png)
 
-![](.gitbook/assets/buyback-burn.png)
+![Player to Burn system](.gitbook/assets/buyback-burn.png)
+
+
 

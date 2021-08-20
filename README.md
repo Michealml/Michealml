@@ -74,5 +74,5 @@ Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон 
 
 ![](.gitbook/assets/bauyback-burn.png)
 
-![](.gitbook/assets/how-to-burn.png)
+![](.gitbook/assets/buyback-burn.png)
 

@@ -70,7 +70,7 @@ Helix токэны хувьд Mintable, Covernance, Crosschain хосолсон 
 
 %%% of all profits across the platform is directed into an "auto buyback and burn" pool consisting of **BNB, ETH, Matic**. The smart contracts will constantly check the average **Helix** price in the past 72 hours. Whenever the price falls below the 72 hour average price the smart contract will be triggered to swap the funds in the pool for **Helix \(HEL\)** tokens at a random time.
 
-### Scenarios
+### Scenarios of Burn
 
 ![](.gitbook/assets/bauyback-burn.png)
 

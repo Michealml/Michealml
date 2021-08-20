@@ -4,14 +4,14 @@ description: Background
 
 # Welcome
 
-## Танилцуулга
+### **Introduction**
 
-Helix нь олон нийтэд чигэлсэн **GameFi** платформ бөгөөд хэрэглэгчдийг оролцоо, сэтгэл ханамж, идэвхи-ээс хамаарч тэднийг урамшуулах зарчимтай шинэлэг төсөл юм. Хурдацтай өсөж байгаа одоогийн нийгэмд Крипто зах зээлийн шинэ үеийн дижитал валютыг ашиглан тоглоом тоглонгоо өөрийн эдийн засагаа хянах боломжыг Helix бий болгоод байна.
+Helix is a community-driven GameFi platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics \(**$HEC** allocation\), utilizing finance and games. Whilst also combining the best of DeFi and NFTs to create a truly unique and everlasting **FREE TO PLAY, PLAY TO EARN ECOSYSTEM.**
 
 {% hint style="success" %}
-Helix нь шинэ эрин үеийг бий болгосон төвлөрсөн бус / олон нийтэд чигэлсэн / хөгжүүлэгчдэд ээлтэй **GameFi**  платфором юм.
+**Helix нь шинэ эрин үеийг бий болгосон төвлөрсөн бус / олон нийтэд чигэлсэн / хөгжүүлэгчдэд ээлтэй GameFi  платфором юм**
 
-### PLAY DIFFERENT !
+#### FREE TO PLAY，PLAY TO EARN！
 {% endhint %}
 
 ## Related Links

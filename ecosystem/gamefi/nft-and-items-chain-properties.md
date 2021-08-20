@@ -89,7 +89,7 @@
 
 1 жилд гарах төрөлийн давхардаагүй тоо
 
-| Type | Per NFT amount |
+| Type | Per Item amount |
 | :--- | :--- |
 | Common | 40 |
 | Uncommon | 30 |

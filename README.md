@@ -6,7 +6,7 @@ description: Background
 
 ### **Introduction**
 
-Helix is a community-driven GameFi platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics \(**$HEC** allocation\), utilizing finance and games. Whilst also combining the best of DeFi and NFTs to create a truly unique and everlasting **FREE TO PLAY, PLAY TO EARN ECOSYSTEM.**
+Helix is a community-driven GameFi platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics \(**$HEL** allocation\), utilizing finance and games. Whilst also combining the best of DeFi and NFTs to create a truly unique and everlasting **FREE TO PLAY, PLAY TO EARN ECOSYSTEM.**
 
 {% hint style="success" %}
 **Helix is committed to becoming the next epoch-making decentralized / community-driven / developer-friendly GameFi platform.**

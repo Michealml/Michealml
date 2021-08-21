@@ -2,9 +2,15 @@
 
 ![](../../.gitbook/assets/capturefuul.png)
 
-### FREE TO PLAY，PLAY TO EARN！
+**Play to Earn** 
 
-Тоглоом тоглох нь одоогийн нийгэмд хэвийн үзэгдэл. Тоглоомноос хүний онцлогоос шалтгаалан янз бүрийн эрч хүч авах нь бий. Гэтэл яагаад тоглоом тоглонгоо мөнгө олж болохгүй гэж? Өөрийн санхүүг дээшлүүлэхийн тулд тоглоом тоглох нь гайхалтай биш гэж үү!!
+Gaming should be fun.  Rather than having to think about every single penny you spend and taking up all your time, wouldn’t it be great to play to earn?  
 
-**Helix** нь онцгой дэд бүтцийг бий болгон **Defi** экосистемийг өвөрмөц **NFT** -тэй нэгтгэсэн шинэлэг тоглоом юм. Энгийнээр хэрэглэгч өөрийн өдөр тутмын үйлдлийг манай платформ дээр ашигласнаар **Exp** цуглуулах ба тодорхой үе шаттай даалгаваруудыг биелүүлсэнээр таны **Exp Level** ахих нөхцөлийг бүрдүүлж **Level** ахин та шагналаа авна.
+MOBOX has built a unique infrastructure that builds on the growing **DeFi ecosystem and combines it with Gaming** through unique NFTs.  Using Liquidity Pools, Yield Farming, and NFTs, the GameFi infrastructure will not just find the **best yield strategies for users but also generate unique NFTs** that can be used across a multitude of games.  This gives MOBOX users the unique ability to **play for free and to earn** in one singular process.  
+
+Imagine a series of games where you don’t actually spend your hard earned money to purchase in-game resources or heroes, but rather a saving’s account where the more you save the more resources you earn and the more heroes you can summon.
+
+By providing liquidity to certain CRATES \(pools\),  CRATE contracts will automatically deliver the best yield for users by utilizing optimal yield farming strategies. 
+
+
 

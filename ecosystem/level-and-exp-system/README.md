@@ -1,2 +1,2 @@
-# Level and exp system
+# Level and XP Token
 

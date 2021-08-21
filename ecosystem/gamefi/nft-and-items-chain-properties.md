@@ -1,6 +1,4 @@
-# NFT and Items chain properties
-
-## The difference between NFT and Items
+# NFT Heroes chain properties
 
 ### NFT 
 

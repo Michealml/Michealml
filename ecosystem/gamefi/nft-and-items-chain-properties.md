@@ -6,6 +6,88 @@
 
 Each **Special NFTs** will have their own **Mining Hash Rate**. Only difference is Rarity and class. Users can Mining **Helix** by using **NFT Hero** in anytime.
 
+| Rarity | Spacies | Gender | Hashrate | Chest Drop Rate | Level | Amount |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Common | Human | Male | 1-260 | 0-50% | 1-30% | 1-12800 |
+| Uncommon | Cryptonian | Female |  |  |  |  |
+| Unique | God |  |  |  |  |  |
+| Rare  | Demon |  |  |  |  |  |
+| Epic | Demigod |  |  |  |  |  |
+| Legendary | Titan |  |  |  |  |  |
+
+### Chain Parameters
+
+**NFT** болон **Items** тус бүрийн хадгалагдсан шинж чанарууд Блокчэйн дээр үүссэн байгаа.
+
+1.  NFT бүр дараах параметрүүдтэй байна.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Rarity</th>
+      <th style="text-align:center">
+        <p>Display Box -</p>
+        <p>Collectible</p>
+        <p>Box Color</p>
+      </th>
+      <th style="text-align:left">Asset Class</th>
+      <th style="text-align:left">Minted</th>
+      <th style="text-align:left">Chest Drop Rate</th>
+      <th style="text-align:left">Extras</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Common</td>
+      <td style="text-align:center">Grey</td>
+      <td style="text-align:left">ERC1155</td>
+      <td style="text-align:left">Box, Level</td>
+      <td style="text-align:left">50.00%</td>
+      <td style="text-align:left">None</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Uncommon</td>
+      <td style="text-align:center">Green</td>
+      <td style="text-align:left">ERC1155</td>
+      <td style="text-align:left">Box, Level</td>
+      <td style="text-align:left">35.00%</td>
+      <td style="text-align:left">None</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Unique</td>
+      <td style="text-align:center">Blue</td>
+      <td style="text-align:left">ERC1155</td>
+      <td style="text-align:left">Box, Level</td>
+      <td style="text-align:left">12.00%</td>
+      <td style="text-align:left">None</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Rare</td>
+      <td style="text-align:center">Purple</td>
+      <td style="text-align:left">ERC721</td>
+      <td style="text-align:left">Box, Auctions</td>
+      <td style="text-align:left">2.50%</td>
+      <td style="text-align:left">Change Default Animation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Epic</td>
+      <td style="text-align:center">Orange</td>
+      <td style="text-align:left">ERC721</td>
+      <td style="text-align:left">Box, Auctions</td>
+      <td style="text-align:left">0.50%</td>
+      <td style="text-align:left">Change Default Animation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Legendary</td>
+      <td style="text-align:center">Red</td>
+      <td style="text-align:left">ERC721</td>
+      <td style="text-align:left">Events, Auctions</td>
+      <td style="text-align:left">N/A</td>
+      <td style="text-align:left">Change Default Animation</td>
+    </tr>
+  </tbody>
+</table>
+
 | Type | Starting Hush Rate |
 | :--- | :--- |
 | Common | 1 |
@@ -14,21 +96,6 @@ Each **Special NFTs** will have their own **Mining Hash Rate**. Only difference 
 | Rare | 10-40 |
 | Epic | 50-120 |
 | Legendary | 180-260 |
-
-### Chain Parameters
-
-**NFT** болон **Items** тус бүрийн хадгалагдсан шинж чанарууд Блокчэйн дээр үүссэн байгаа.
-
-1.  NFT бүр дараах параметрүүдтэй байна.
-
-| Type | Color | Asset Class | Minted | Rate | Extras |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Common | Grey | BRC1155 | Box, Level | 50.00% | None |
-| Uncommon | Green | BRC1155 | Box, Level | 35.00% | None |
-| Unique | Blue | BRC1155 | Box, Level | 12.00% | None |
-| Rare | Purple | BRC721 | Box, Auctions | 2.50% | Edit Name |
-| Epic | Orange | BRC721 | Box, Auctions | 0.50% | Edit Name, Message |
-| Legendary | Red | BRC721 | Events, Auctions | N/A | Edit Name, Message |
 
    20 жилийн турш жил бүр тусгагдсан ширхэгийн дагуу Мint хийх болно.
 

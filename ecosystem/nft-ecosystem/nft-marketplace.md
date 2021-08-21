@@ -10,3 +10,5 @@ In order to provide the best experience and the least fees, we have optimized th
 4. The marketplace also has a Bundle System giving users the the option to sell or buy multiple NFT Heroes at a time.
 5. The Helix platform takes a %% exchange fee that goes to the Buyback and Burn pool. [Learn More](../../token-math/bayback-burn.md)
 
+![](../../.gitbook/assets/buyback-burn.png)
+

@@ -41,7 +41,7 @@
 
 Хэрэглэгч өөрт байгаа **NFT** болон **Items** - ыг зарж худалдаалах, авах эрхтэй. 
 
-{% page-ref page="../nft-ecosystem/nft-marketplace.md" %}
+{% page-ref page="nft-marketplace.md" %}
 
 ### 4 Coffee цуглуулж сольж авах
 

@@ -4,9 +4,13 @@
 
 ## Old Games
 
-Онлайн тоглоомын салбар маш өрсөлдөөнтэй салбар бөгөөд монополь компаниуд таны мэдээлэл, цаг, мөнгөний төлөө өрсөлддөг. Ихэнх компаниуд хэрэглэгчдээ алдахгүйн тулд янз бүрийн тоглоом шинээр хөгжүүлдэг. Тэдний арга техник маш нарийн янз бүр бөгөөд ихэнхдээ таны дур сонирхолд нийцүүлэн зөвхөн тоглоом гэлтгүй зарим төрлийн Апп маш олноор нь хөгжүүлдэг. Жишээ нь:                                                                                                                                                  - X тоглоом нь газар нээдэг тоглоом. Та тухайн тоглоомонд бүртгүүлсэнээр 1 газрийг үнэгүй өгч та тэрхүү газрийг өөрийн сонирхолын дагуу хөгжүүлэн түвшин ахиж шагналуудыг авдаг. Гэтэл та 2 дахь газрийг төлөхийн тулд оноо шаардлагатай бөгөөд таны оноо хүрэхгүй худалдан авахаас өөр араггүй болно. Түүнийгээ дагаад янз бүрийн шагнал урамшуулал өгдөг.
+Online entertainment is an extremely competitive industry, with monopolistic companies competing for your information, attention, and money. Several of these companies have adopted gamification techniques to retain users and keep them interested. This is done in many ways, whether it is accumulating more points by running the extra mile on NIKE Plus or gaining levels on your favorite shopping app to chase the next big coupon & bonus points. Using all these systems, apps and features are designed to increase retention and keep you curious for what's to come.‌
 
- Гэсэн хэдий ч хэрэглэгчийн зарцуулсан бүх цаг хугацаа, мөнгийг авч үзвэл шагнал нь тэнцвэртэй байдлыг бий болгоход хангалтгүй юм. 2020 оны байдлаар тоглогчид тоглоомонд 87 тэрбум доллар зарцуулсанаас эргүүлж тоглогчид уруу оруулсан хөрөнгө оруулалт 0 доллар. 
+Yet with all the time and money spent by the user, the rewards are simply not enough creating an imbalance. Where the company always has the upper hand and extracts every single dollar they possibly can from the user, which leaves them with next to nothing. In 2020 players spent just under $87 billion USD on games, with the very same users receiving a shocking $0 in return. Here’s where MOBOX comes in to make a change.‌
+
+MOBOX is a community-driven platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics, utilizing finance and games. Whilst also combining the best of DeFi and NFTs to create a truly unique and everlasting **FREE TO PLAY, PLAY TO EARN ECOSYSTEM.**
+
+Our vision is that no NFT metaverse should be singular but rather each metaverse can be interconnected giving each unique NFT increased utility through NFT interoperability between games and platforms.
 
 ## New Generation
 

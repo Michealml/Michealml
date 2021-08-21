@@ -6,87 +6,46 @@
 
 Each **Special NFTs** will have their own **Mining Hash Rate**. Only difference is Rarity and class. Users can Mining **Helix** by using **NFT Hero** in anytime.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attributes</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Rarity</td>
-      <td style="text-align:left">Common</td>
-      <td style="text-align:left">Uncommon</td>
-      <td style="text-align:left">Unique</td>
-      <td style="text-align:left">Rare</td>
-      <td style="text-align:left">Epic</td>
-      <td style="text-align:left">Legendary</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Spacies</td>
-      <td style="text-align:left">Human</td>
-      <td style="text-align:left">Cryptonian</td>
-      <td style="text-align:left">God</td>
-      <td style="text-align:left">Demon</td>
-      <td style="text-align:left">Demigod</td>
-      <td style="text-align:left">Titan</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Gender</td>
-      <td style="text-align:left">Male</td>
-      <td style="text-align:left">Female</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hashrate</td>
-      <td style="text-align:left">1-260</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Chest Drop</p>
-        <p>Rate</p>
-      </td>
-      <td style="text-align:left">0-50%</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Level</td>
-      <td style="text-align:left">1-30</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Amount</td>
-      <td style="text-align:left">1-12800</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+{% tabs %}
+{% tab title="Rarity" %}
+* **Common**
+* **Uncommon**
+* **Unique**
+* **Rare**
+* **Epic**
+* **Legendary**
+{% endtab %}
+
+{% tab title="Spacies" %}
+* **Human**
+* **Cryptonian**
+* **God**
+* **Demon**
+* **Demigod**
+* **Titan**
+{% endtab %}
+
+{% tab title="Gender" %}
+* **Male**
+* **Female**
+{% endtab %}
+
+{% tab title="Hashrate" %}
+* 1-260
+{% endtab %}
+
+{% tab title="Chest Drop Rate" %}
+* 0-50%
+{% endtab %}
+
+{% tab title="Level" %}
+* 1-30
+{% endtab %}
+
+{% tab title="Amount" %}
+* 1-12800
+{% endtab %}
+{% endtabs %}
 
 ### Chain Parameters
 

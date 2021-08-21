@@ -47,5 +47,6 @@
 
 ---
 
+* [Disclaimer](disclaimer.md)
 * [Хэрэгтэй байж болох](untitled.md)
 

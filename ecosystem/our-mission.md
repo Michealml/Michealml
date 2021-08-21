@@ -2,9 +2,12 @@
 
 ![banner zurag oruulna](../.gitbook/assets/wp6177681.jpg)
 
-Ямар ч компани, хөгжүүлэгчид хэрэглэгч төвтэй. Тэд өөрсдийн бүтээгдэхүүнээ зөвхөн хэрэглэчдийн дур сонирхолд нийцүүлэн цаг болон хөрөнгөө зориулдаг боловч эдийн засгийн хувь хэрэглэгчдээс хөгжүүлэгч, компани уруу чигэлсэн байдаг.
+* We bring you the most novel gaming experience and the most lucrative monetization opportunities while promoting ecosystem expansion and mass adoption of blockchain applications.
+* We offer you the best collections on the market.
+* We bring you the most novel gaming experience with NFT fantasy.
+* We offer you a cross-chain NFT marketplace equipped with superior features where you can earn money in many different ways.
 
-**Helix** нь хэрэглэгчийн зарцуулсан цаг, хувь нэмэрийнх нь төлөө урамшуулах зарчимтай хөгжүүлэгчээс хэрэглэгч уруу чиглэсэн төвлөрсөн бус экосистемийг бий болгох смарт контракын багцыг бий болгосон юм. Энэ нь хэрэглэгчид манай платформыг ашиглан **Exp** цуглуулан түвшин ахиж  **NFT** цуглуулах, хөгжүүлэх, өөрийн **NFT** багцыг ашиглан олборлолт хийх, худалдаалах боломжийг бүрдүүлэх чадамжийг бий болгоно.
+We believe in the open future of the blockchain game market. A future where people can spend their whole day entertaining, playing games they like, and generating economic benefits. This is just the beginning. Kindly follow us, step by step
 
 * [Gamefi](gamefi/)
 * [NFT ecosystem](nft-ecosystem/)

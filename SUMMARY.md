@@ -15,7 +15,7 @@
   * [Generating NFTs and Items](ecosystem/gamefi/generating-nfts-and-items.md)
   * [NFT and Items chain properties](ecosystem/gamefi/nft-and-items-chain-properties.md)
   * [Mining pools](ecosystem/gamefi/mining-pools.md)
-* [NFT ecosystem](ecosystem/nft-ecosystem/README.md)
+* [Character class system](ecosystem/nft-ecosystem/README.md)
   * [Ability to work together](ecosystem/nft-ecosystem/ability-to-work-together.md)
   * [NFT Marketplace](ecosystem/nft-ecosystem/nft-marketplace.md)
 * [Asset Portfolio](ecosystem/asset-portfolio.md)
